@@ -45,7 +45,7 @@ This is a starter template for your lab assignments. Follow the GitHub setup bel
 Implement a new `AboutController` with the following requirements:
 
 #### Endpoint Requirements
-- **Path:** `localhost:8082/about` *(Note: the server port is set to `8082` in `application.properties`)*
+- **Path:** `localhost:8080/about`
 - **HTTP Method:** `GET`
 - **Return:** HTML template displaying content about FitSquad Hub and the community workout challenges.
 
