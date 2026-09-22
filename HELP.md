@@ -10,7 +10,7 @@ For further reference, please consider the following sections:
 * [Spring Boot DevTools](https://docs.spring.io/spring-boot/4.1.1/reference/using/devtools.html)
 * [Thymeleaf](https://docs.spring.io/spring-boot/4.1.1/reference/web/servlet.html#web.servlet.spring-mvc.template-engines)
 * [FitSquad Hub Thymeleaf Cheat Sheet](THYMELEAF_CHEAT_SHEET.md)
-* [Lab 1 Instructions](LAB1.md)
+* [Lab 1 Instructions](README.md)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
