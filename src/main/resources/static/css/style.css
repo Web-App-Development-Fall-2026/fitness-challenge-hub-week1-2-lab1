@@ -215,3 +215,23 @@ body {
     background: rgba(255, 255, 255, 0.07);
     color: var(--text-secondary);
 }
+
+.about-container {
+    max-width: 800px;
+    margin: 80px auto;
+    padding: 40px;
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 18px;
+}
+
+.about-container h1 {
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.about-container p {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
